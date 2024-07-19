@@ -143,3 +143,6 @@ api_key.py
 # *.txt
 
 *chrome*
+config_files/*
+tasks/*
+log/*
