@@ -146,3 +146,4 @@ api_key.py
 config_files/*
 tasks/*
 log/*
+log-all/*
